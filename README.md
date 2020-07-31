@@ -7,9 +7,9 @@ O seguinte projeto tem como intuito criar um simples crud, com uma dashboard fei
 
 Para o desenvolvimento do projeto foi utilizada as seguintes tecnologias:
 
-- :technologist_light_skin_tone: **Angular 9** - Framework para desenvolvimento de frontend robustos e complexos.
-- :technologist_light_skin_tone: **JavaScript** — Linguagem de Programação
-- :technologist_light_skin_tone: **Node** — Biblioteca para ser trabalhado com funções NPM.
+- :man_technologist:  **Angular 9** - Framework para desenvolvimento de frontend robustos e complexos.
+- :man_technologist:  **JavaScript** — Linguagem de Programação
+- :man_technologist:  **Node** — Biblioteca para ser trabalhado com funções NPM.
 
 ## Instalação
 
