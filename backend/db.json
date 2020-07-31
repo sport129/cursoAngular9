@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Sansumg S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Produto de Teste",
+      "price": 125.98,
+      "id": 4
+    },
+    {
+      "name": "Product Form",
+      "price": "199.99",
+      "id": 5
+    },
+    {
+      "name": "Caneta Azul",
+      "price": "1.99",
+      "id": 6
+    }
+  ]
+}
